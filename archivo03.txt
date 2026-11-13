@@ -1,0 +1,12 @@
+UNIVERSIDAD DE INGENIERÍA Y TECNOLOGÍA
+Curso: Computación en la Nube
+Estudiante: Frank Chavez
+Código de estudiante: 20261234
+
+Actividad: Registro de asistencia y avance del proyecto
+Fecha: 13 de noviembre de 2026
+
+En la sesión de hoy revisamos arquitecturas basadas en eventos.
+
+Próximo paso: verificar que el código del curso y el código del
+estudiante aparezcan en el registro de DynamoDB.
